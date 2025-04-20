@@ -6,7 +6,7 @@
 
 - 📂 **GitHub:** [github.com/FlyAR-Team/FlyAR](https://github.com/FlyAR-Game)
 - 📋 **Trello:** [trello.com/b/ZFLTO2Ek](https://trello.com/b/ZFLTO2Ek)
-- 🌐 **Web Site:** EKLENECEK
+- 🌐 **Web Site:** [flyargames.vercel.app/](https://flyargames.vercel.app/)
 
 ## 📝 Proje Özeti
 
