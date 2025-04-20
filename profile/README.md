@@ -1,12 +1,14 @@
-## Hi there 👋
+# 🚀 FlyAR Projesi
 
-<!--
+✨ Artırılmış gerçeklik tabanlı eğitsel çocuk oyunu.
 
-**Here are some ideas to get you started:**
+## 🔗 Bağlantılar
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- 📂 **GitHub:** [github.com/FlyAR-Team/FlyAR](https://github.com/FlyAR-Game)
+- 📋 **Trello:** [trello.com/b/ZFLTO2Ek](https://trello.com/b/ZFLTO2Ek)
+- 🌐 **Web Site:** EKLENECEK
+
+## 📝 Proje Özeti
+
+🎮 FlyAR, çocuklara dünya kültürlerini öğreten AR tabanlı bir oyundur. Subway Surfers benzeri mekanikle kelime harflerini toplayarak kültürel içerikleri açığa çıkarır.
+
