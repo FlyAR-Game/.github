@@ -7,7 +7,7 @@
 - 📂 **GitHub:** [github.com](https://github.com/FlyAR-Game)
 - 📋 **Trello:** [trello.com](https://trello.com/b/ZFLTO2Ek)
 - 🌐 **Web Site:** [flyargames.vercel.app/](https://flyargames.vercel.app/)
-- 📋 **Dokümantasyon:** [docs.google.com](https://docs.google.com/document/d/1nKTXKfbOmdgNLyDDPjgi8jjkiE6e5vwExsOvmowvhAg/edit?tab=t.0#heading=h.5cwtx6xiq3zl)
+- 📋 **Dokümantasyon:** [https://flyar-game.github.io/docs/](https://flyar-game.github.io/docs/)
 
 ## 📝 Proje Özeti
 
